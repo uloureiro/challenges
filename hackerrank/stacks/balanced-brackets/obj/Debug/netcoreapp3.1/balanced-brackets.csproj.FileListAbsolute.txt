@@ -1,0 +1,12 @@
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/bin/Debug/netcoreapp3.1/balanced-brackets.deps.json
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/bin/Debug/netcoreapp3.1/balanced-brackets.runtimeconfig.json
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/bin/Debug/netcoreapp3.1/balanced-brackets.runtimeconfig.dev.json
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/bin/Debug/netcoreapp3.1/balanced-brackets.dll
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/bin/Debug/netcoreapp3.1/balanced-brackets.pdb
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/obj/Debug/netcoreapp3.1/balanced-brackets.csprojAssemblyReference.cache
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/obj/Debug/netcoreapp3.1/balanced-brackets.AssemblyInfoInputs.cache
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/obj/Debug/netcoreapp3.1/balanced-brackets.AssemblyInfo.cs
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/obj/Debug/netcoreapp3.1/balanced-brackets.csproj.CoreCompileInputs.cache
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/obj/Debug/netcoreapp3.1/balanced-brackets.dll
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/obj/Debug/netcoreapp3.1/balanced-brackets.pdb
+/Users/uloureiro/Developer/uloureiro.github.com/challenges/hackerrank/stacks/balanced-brackets/obj/Debug/netcoreapp3.1/balanced-brackets.genruntimeconfig.cache
